@@ -7,15 +7,25 @@
 Covid-19 Data of Asian Countries as on September 02, 2021
 
 # Attribute Information
+
 Country - Name of Asian Countries
+
 Total Cases - Total number of Covid cases
+
 Total Deaths - Total number of Covid deaths
+
 Total Recovered - Total number of recovered cases
+
 Active Cases - Total number of active cases
+
 Total Cases/1M population - Total cases per 1 million population
+
 Deaths per 1M population - Total deaths per 1 million population
+
 Total Tests - Total covid tests done
+
 Tests/1M population - Tests per 1 million of the population
+
 Population - Population in each country
 
 
