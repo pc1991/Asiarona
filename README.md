@@ -1,4 +1,7 @@
 # Latest COVID-19 Data in Asia
+(Courtesy: Anandhu H of Kaggle)
+
+>Please take note that this model done was performed around mid-August. The case numbers are currently higher as we speak and Mr. Anandhu is currently updating his Excel sheet on this matter daily.
 
 
 Copyright (c) 2021 Robert (Christian) Paul & Anandhu H
