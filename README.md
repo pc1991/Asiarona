@@ -53,6 +53,8 @@ Population - Population in each country
 > 
 [1] 0.001594646
 
+# GG Scatter Plot on Relationship b/w Total Cases & Population
+
 ![GG Plot On Relationship between Total Cases   Population](https://user-images.githubusercontent.com/87962854/132267208-79d1c98a-edeb-4921-b21f-5e02856354d3.png)
 
 ![Fitted vs  Residuals Graph of Asia Coronavirus Linear Model](https://user-images.githubusercontent.com/87962854/132267137-0d1bfe58-2049-4331-a5ed-81df15586032.png)
