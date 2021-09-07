@@ -60,6 +60,7 @@ Population - Population in each country
 # Finding Our Root Mean Square Error For Original Linear Model
 
 >rmse(g$fitted.values,asiarona$Population)
+>
 >[1] 1314151
 
 # Fitted vs. Residuals Graph of Asia Coronavirus Linear Model
