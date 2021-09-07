@@ -57,11 +57,20 @@ Population - Population in each country
 
 ![GG Plot On Relationship between Total Cases   Population](https://user-images.githubusercontent.com/87962854/132267208-79d1c98a-edeb-4921-b21f-5e02856354d3.png)
 
+# Finding Our Root Mean Square Error For Original Linear Model
+
+>rmse(g$fitted.values,asiarona$Population)
+>[1] 1314151
+
+# Fitted vs. Residuals Graph of Asia Coronavirus Linear Model
+
 ![Fitted vs  Residuals Graph of Asia Coronavirus Linear Model](https://user-images.githubusercontent.com/87962854/132267137-0d1bfe58-2049-4331-a5ed-81df15586032.png)
 
 ![QQ Plot of Asiarona Linear Model](https://user-images.githubusercontent.com/87962854/132267239-103ed02b-c979-4c4b-8d15-38e48f80a16a.png)
 
 ![Half-Norm Plot of Asiarona Linear Model](https://user-images.githubusercontent.com/87962854/132267674-e43a5fea-7969-4bf7-92f8-260acfd56b54.png)
+
+# Shapiro Test of Asiarona Linear Model
 
 ![Shapiro Test of Asiarona Linear Model](https://user-images.githubusercontent.com/87962854/132267712-54b9f2b7-d776-42b8-9713-80c70a91adfc.png)
 
