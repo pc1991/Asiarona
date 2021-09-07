@@ -30,17 +30,27 @@ Population - Population in each country
 
 # Searching for the P-values of the correlation tests
 > atp <- at$p.value
+> 
 > btp <- bt$p.value
+> 
 > ctp <- ct$p.value
+> 
 > dtp <- dt$p.value
 > 
 > atp
+> 
 [1] 1.526644e-07
+
 > btp
+> 
 [1] 1.374775e-07
+
 > ctp
+> 
 [1] 1.59374e-07
+
 > dtp
+> 
 [1] 0.001594646
 
 ![GG Plot On Relationship between Total Cases   Population](https://user-images.githubusercontent.com/87962854/132267208-79d1c98a-edeb-4921-b21f-5e02856354d3.png)
