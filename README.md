@@ -118,7 +118,7 @@ Link : https://www.worldometers.info/coronavirus/#countries
 
 Upvote if you find it useful
 
-citation(package = 'readr')
+> citation(package = 'readr')
 
 To cite package ‘readr’ in publications use:
 
